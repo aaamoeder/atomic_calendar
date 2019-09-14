@@ -161,7 +161,7 @@ entities:
 
 If you set filters (keywords) for any type, it will show an icon only when event summary contains one of keywords. If you don't set any filter, it will show icons for all days with any events.
 
-## Calendar Mode settings
+### Calendar Mode settings
 | Name | Type | Since | Description |
 |------|:----:|:-----:|-------------|
 | enableModeChange | boolean | v0.7.0 | `false` Set true to enable mode change (Calendar/Events)
